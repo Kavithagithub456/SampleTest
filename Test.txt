@@ -3,3 +3,5 @@ Testing Git
 cghanged
 
 testing pull request
+
+changing in local folder
